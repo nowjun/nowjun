@@ -18,5 +18,5 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 
 ## 📌 Featured Projects
 - Kubernetes Jenkins CI/CD 구축
-- NFS 기반 Kubernetes Persistent Storage
-- Ansible 기반 서버 보안 점검 자동화
+- 사설 클라우드 기반 가상 데스크톱(DaaS) 서비스 구현
+
