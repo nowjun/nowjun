@@ -34,10 +34,10 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 | 12 | 교육 | 네이버 클라우드 부트캠프 | [`정리`]() |
 | 01 | 교육 | AWS Architecting on AWS | [`정리`]() |
 | **🚩2023** |  |  |  |
-| 12 | 대회 | 캡스톤디자인 경진대회 | - |
-| 11 | 기부 | 특허권리 이전 수익금 기부 | - |
-| 07 | 교육 | AWS Cloud Technical Essentials | - |
-| 07 | 교육 | AWS Cloud Practitioner Essentials | - |
+| 12 | 대회 | 캡스톤디자인 경진대회 | [`정리`]() |
+| 11 | 기부 | 특허권리 이전 수익금 기부 | [`정리`]() |
+| 07 | 교육 | AWS Cloud Technical Essentials | [`정리`]() |
+| 07 | 교육 | AWS Cloud Practitioner Essentials | [`정리`]() |
 | 07-12 | 교육 | 화이트해커 양성 프로그램 | - |
 | 03-12 | 동아리 | 학과 동아리 부회장 | - |
 | **🚩2022** |  |  |  |
