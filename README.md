@@ -5,7 +5,7 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 ## 📋 portfolio
 <div align=center>
   
-[![](https://nowjun.notion.site/fed8a10b7ef2431ab64d5deb2f4c64c7?source=copy_link)
+[![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://nowjun.notion.site/fed8a10b7ef2431ab64d5deb2f4c64c7?source=copy_link)
 
 </div>
 
