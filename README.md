@@ -33,7 +33,7 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 |  |  |  |
 | **🚩2024** |  | 휴학 / 대학교 4학년 2학기 |  |
 | 12 | 교육 | 네이버 클라우드 부트캠프 | [`정리`](https://nowjun.notion.site/91c1309bd0964532906c63641904a138?source=copy_link) |
-| 11 | 대외활동 | 2023 동의대학교 통합성과 경진대회 | [`정리`](https://www.notion.so/nowjun/2023-2f3bbdf5e649802d9d08f4d1a80217a4?source=copy_link) | 
+| 11 | 대외활동 | 2023 동의대학교 통합성과 경진대회 | [`정리`](https://nowjun.notion.site/2023-2f3bbdf5e649802d9d08f4d1a80217a4?source=copy_link) | 
 | 01 | 교육 | AWS Architecting on AWS | [`정리`](https://nowjun.notion.site/AWS-Solution-Architecture-71b4dad82a7f4b0c8335e98f1abe7d43?source=copy_link) |
 | **🚩2023** |  | 대학교 4학년 1학기 / 휴학 |  |
 | 11 | 기부 | 특허권리 이전 보상금 기부 | [`정리`](https://nowjun.notion.site/2022-9081526ab7cc430984e358d5275b415f?source=copy_link) |
