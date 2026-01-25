@@ -1,4 +1,4 @@
-  ### 👋 박현준  |  Junior Infrastructure Engineer
+### 👋 박현준  |  Junior Infrastructure Engineer
 
 Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동화에 관심이 있습니다.
 
@@ -18,11 +18,6 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
-## 📌 Featured Projects
-- Kubernetes Jenkins CI/CD 구축
-- 사설 클라우드 기반 가상 데스크톱(DaaS) 서비스 구현
-- NPU 디코딩 지원 원격 데스크톱 스트리밍 구현
 
   
 ## 📚활동내역
