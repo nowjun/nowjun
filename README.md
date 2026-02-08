@@ -1,6 +1,6 @@
 ### 👋 박현준  |  Junior Infrastructure Engineer
 
-Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동화에 관심이 있습니다.
+Kubernetes 기반 인프라 구성, AWS, CI/CD, Ansible을 활용한 인프라 자동화에 관심이 있습니다.
 
 ## 📋 portfolio
 <div align=center>
@@ -26,9 +26,9 @@ Kubernetes 기반 인프라 구성, CI/CD, Ansible을 활용한 인프라 자동
 
 |       기간     |       구분     |      활동내역    |       비고     |
 | :--- | :---: | :---: | :---: |
-| 01-03 | 재직 | [**`알티넷솔루션`**](http://www.rtnsol.com) 재직중 |  |
+| 01-03 | 근무 | [**`알티넷솔루션`**](http://www.rtnsol.com) 재직중 |  |
 | **🚩2026** |  |  |  |
-| 03-12| 재직 | [**`알티넷솔루션`**](http://www.rtnsol.com) 재직 |  |
+| 03-12| 근무 | [**`알티넷솔루션`**](http://www.rtnsol.com) 재직 |  |
 | **🚩2025** |  | 동의대학교 졸업 |  |
 |  |  |  |
 | **🚩2024** |  | 휴학 / 대학교 4학년 2학기 |  |
